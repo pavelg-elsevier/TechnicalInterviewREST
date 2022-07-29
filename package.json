@@ -1,0 +1,30 @@
+{
+  "name": "technical-interview-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavelg-elsevier/TechnicalInterviewREST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavelg-elsevier/TechnicalInterviewREST/issues"
+  },
+  "homepage": "https://github.com/pavelg-elsevier/TechnicalInterviewREST#readme",
+  "devDependencies": {
+    "jest": "^28.1.3",
+    "ts-jest": "^28.0.7",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "@types/jest": "^28.1.6",
+    "@types/typescript": "^2.0.0"
+  }
+}
