@@ -2,8 +2,11 @@
 
 Source: https://www.codewars.com/kata/5f1e3fba8f51e10010cf446a/train/javascript/62e1695129618a0065bc14f2
 
-To run the code:
-npm install && npm run build && npm run test
+To install the dependencies:
+`npm run install`
+
+To run your tests:
+`npm run test`
 
 In this kata you are going to mimic the behaviour of a backend framework by creating a Server class. A basic functionality is already available in src/Server.js. You are expected to add the functionality as per instructions below.
 
