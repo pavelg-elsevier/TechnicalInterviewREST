@@ -1,6 +1,3 @@
-import { Server } from '../src/Server';
-import { dataSource } from './data';
-
 var server = require('../src/Server');
 var dataSource = require('./data');
 
